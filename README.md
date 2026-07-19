@@ -3,7 +3,7 @@
 An interactive data visualization dashboard built with Streamlit and Plotly to explore survival patterns in the Titanic dataset — with live filters and real-time updating charts. Part of Jyesta Data Science Internship.
 
 ## 🌐 Live Demo
-[View Live Dashboard]()
+[View Live Dashboard](https://dafb3w4p6cb8xzz69z8vsm.streamlit.app/)
 
 ## 📌 Overview
 Unlike the previous static analysis projects, this dashboard lets users interactively filter the data (by class, gender, age) and see visualizations, KPI metrics, and a data table update in real time — similar to tools like Tableau or Power BI, built entirely in Python.
