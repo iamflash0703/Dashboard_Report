@@ -145,4 +145,4 @@ st.dataframe(filtered_df[["pclass", "sex", "age", "fare", "survived", "embark_to
 
 # ---------- STEP 8: Footer ----------
 st.divider()
-st.caption("Built with Streamlit + Plotly | Jyesta Data Science Internship - Project 6")
+st.caption("Built with Streamlit + Plotly | Shovit")
